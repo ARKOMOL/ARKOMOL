@@ -13,6 +13,7 @@ Skills: HTML / CSS/ JS / REACT /  Node JS /MongoDB
 - 📫 How to reach me: abdurrasidkomol@gmail.com 
 - ⚡ Fun fact: I love to coding and whenever I got error I enjoy it more. 
 
+![Profile views](https://gpvc.arturio.dev/ARKOMOL)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ARKOMOL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdurrashid77//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/abdurRashidKomol77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/abdur_rashid77//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/abdur_Rashid77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/abdurRashid77)  
 
@@ -27,13 +28,12 @@ Skills: HTML / CSS/ JS / REACT /  Node JS /MongoDB
 [![trophy](https://github-profile-trophy.vercel.app/?username=ARKOMOL)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARKOMOL)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARKOMOL&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ARKOMOL)  
 
-![GitHub metrics](https://metrics.lecoq.io/ARKOMOL)  
+![GitHub metrics](https://metrics.lecoq.io/ARKOMOL)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ARKOMOL)  
 
-![Profile views](https://gpvc.arturio.dev/ARKOMOL)  
