@@ -34,7 +34,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ARKOMOL)  
 
-![GitHub metrics](https://metrics.lecoq.io/ARKOMOL)   
+![GitHub metrics](https://metrics.lecoq.io/ARKOMOL)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ARKOMOL) 
 
 
