@@ -29,12 +29,12 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 [![trophy](https://github-profile-trophy.vercel.app/?username=ARKOMOL)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARKOMOL)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARKOMOL&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ARKOMOL)  
 
-![GitHub metrics](https://metrics.lecoq.io/ARKOMOL)   -->
+![GitHub metrics](https://metrics.lecoq.io/ARKOMOL)   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ARKOMOL) 
 
 
